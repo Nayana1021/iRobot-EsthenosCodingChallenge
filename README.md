@@ -1,6 +1,6 @@
 # iRobot-EsthenosCodingChallenge
-<<<<<<< HEAD
-=======
+
+
 
 1. Open a terminal in the directory where the file is saved.
 2. Run the program with: "python robot_movement.py"
